@@ -32,4 +32,3 @@
 
 ## Lambda functions and error handling
 
-    max(list_name)
